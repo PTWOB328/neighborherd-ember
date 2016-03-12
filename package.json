@@ -39,6 +39,10 @@
     "ember-export-application-global": "^1.0.4",
     "ember-load-initializers": "^0.5.0",
     "ember-resolver": "^2.0.3",
-    "loader.js": "^4.0.0"
+    "loader.js": "^4.0.0",
+    "normalize-scss": "^4.0.3"
+  },
+  "dependencies": {
+    "support-for": "^1.0.3"
   }
 }

@@ -1,2 +1,9 @@
+
+//@import 'node_modules/support-for';
+@import 'sass/normalize/variables';
+@import 'sass/normalize/vertical-rhythm';
+@import 'sass/normalize/normalize-mixin';
+
 @import "bourbon";
 @import "neat";
+@include normalize();
